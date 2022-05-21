@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "neo",
+    "texture": "32968098-01c9-4fff-8efe-a1ed0c91a752",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ThanDen",
+    "texture": "105083e8-ff93-4fb5-b262-49f2960a471d",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      246,
+      309
+    ],
+    "offset": [
+      0,
+      -3.5
+    ],
+    "originalSize": [
+      246,
+      316
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
